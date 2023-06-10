@@ -1,0 +1,26 @@
+body{
+    
+    background-size: cover;
+   
+}
+
+.heading{
+    margin-top: 0;
+    width: 100%;
+    font-size: 22px;
+}
+
+.note{
+    color:black;
+    font-size: 14px;
+}
+
+.h3{
+    box-shadow: 5px 5px 5px black;
+   margin-top: 0px;
+}
+
+canvas{
+    box-shadow: 5px solid grey;
+    border-radius: 20px;
+}
